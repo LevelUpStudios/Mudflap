@@ -13,6 +13,8 @@
 #include "SDL_ttf.h"
 #include "Engine.h"
 
+//Im a snek.. Snekity snek
+
 int main(int argc, char* argv[])
 {
 	Engine game;
